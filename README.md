@@ -10,7 +10,7 @@ A short description of what this project does and who it's for.
 
  Examples of how to use the project.
 
- ##Authors
+ ## Authors
 
 -Angel Gabriel Flores Martinez
 -Hua Hsien Chen(Russel)
