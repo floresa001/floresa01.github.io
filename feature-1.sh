@@ -1,1 +1,1 @@
-#Feature1: Requirement Checklist by Hua Hsien Chen
+#Feature1: Additional Features & User Experience by Hua Hsien Chen

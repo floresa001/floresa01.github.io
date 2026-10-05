@@ -1,1 +1,1 @@
-#feature2: Generate strong passwords by Hua Hsien Chen
+#feature2: Password Generator & Copy by Hua Hsien Chen
