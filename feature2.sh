@@ -1,1 +1,1 @@
-#feature2: Generate git init by Hua Hsien Chen
+#feature2: Generate strong passwords by Hua Hsien Chen
